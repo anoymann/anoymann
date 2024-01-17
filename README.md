@@ -2,4 +2,3 @@
 - 👀 I’m interested in automation of manual actions
 - 🌱 I’m currently learning Python
 - 📫 How to reach me i@anoymann.ru
-- ⚡ Website: noymann.com (in developing)
