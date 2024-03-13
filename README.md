@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Alexander Noymann
+- 👋 Hi, I’m NOYMANN
 - 👀 I’m interested in automation of manual actions
 - 🌱 I’m currently learning Python
